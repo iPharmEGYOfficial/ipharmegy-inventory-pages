@@ -1,4 +1,4 @@
-﻿export default function InventoryHome() {
+﻿export default function Dashboard() {
   const year = new Date().getFullYear();
 
       const tiles = [
