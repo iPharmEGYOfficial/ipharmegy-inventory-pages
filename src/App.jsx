@@ -1,2 +1,2 @@
-﻿import InventoryHome from "./pages/InventoryHome.jsx";
-export default function App(){ return <InventoryHome />; }
+﻿import Dashboard from "./pages/Dashboard.jsx";
+export default function App(){ return <Dashboard />; }
